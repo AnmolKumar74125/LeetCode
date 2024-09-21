@@ -19,7 +19,6 @@ class Solution {
         Map<Integer,Integer> last = new HashMap<Integer, Integer>();
         for(int i=0; i<=n; i++)
         {
-            System.out.print(arr[i]+" ");
             if(first.containsKey(arr[i]))
             {
                 last.put(arr[i],i);

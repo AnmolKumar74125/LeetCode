@@ -2,7 +2,6 @@ class Solution {
     public int longestSubarray(int[] nums) {
         
         int n = nums.length;
-        int arr[] = new int[n];
         int max = 0;
         int count = 0, maxCount = 0;
         for(int i = 0; i < n; i++)

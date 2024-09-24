@@ -1,39 +1,34 @@
 class Solution {
     public int longestCommonPrefix(int[] arr1, int[] arr2) {
-        HashMap<Integer, Integer> prefix = new HashMap<>();
         
-        // Store all prefixes of the first array
-        for (int val : arr1) {
-            int num = val;
-            while (num > 0) {
-                prefix.put(num, prefix.getOrDefault(num, 0) + 1);
-                num /= 10;
+        Set<Integer> hs =new HashSet<Integer>();
+        int len1 = arr1.length;
+        for(int i = 0; i < len1; i++)
+        {
+            int countDigits =(int) Math.log10(arr1[i]);
+            for(int j=0;j<=countDigits;j++)
+            {
+                hs.add(arr1[i]/(int)Math.pow(10,j));
             }
         }
-
-        // Variable to track the maximum length
-        int mx = Integer.MIN_VALUE;
-
-        // Instead of creating another map, check the prefix at the moment
-        for (int val : arr2) {
-            int num = val;
-            // Count the number of digits in num
-            int len = (int) Math.log10(num) + 1;
-
-            // Generate all prefixes again
-            while (num > 0) {
-                // If prefix found, break
-                if (prefix.containsKey(num)) {
-                    break;
+        //System.out.println(hs);
+        Arrays.sort(arr2);
+        int len2 = arr2.length;
+        int max = 0;
+        for(int i = 0; i < len2; i++)
+        {
+            int countDigits = (int) Math.log10(arr2[i]);
+            for(int j=0; j<=countDigits-max; j++)
+            {
+                int val = arr2[i]/(int)Math.pow(10,j);
+                if(hs.contains(val))    
+                {
+                   // max = Math.max(max,countDigits-j);
+                   max = Math.max(max,1+countDigits-j);
                 }
-                num /= 10;
-                // Decrease digit count as we decrease prefix
-                len--;
+                //System.out.println(val+". "+max);
             }
-
-            mx = Math.max(mx, len);
         }
-
-        return mx;
+        return max;
     }
 }

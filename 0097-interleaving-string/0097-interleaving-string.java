@@ -24,11 +24,8 @@ class Solution {
             for(int j = 1; j <= len2; j++)
             {
                 String part = s3.substring(0, (i+j));
-                //System.out.println( part +"  "+ (mat[i][0]+mat[0][j]) +"  "+(mat[0][j]+mat[j][0]));
                 if(part.equals(mat[i][0]+mat[0][j]) || part.equals(mat[0][j]+mat[i][0]) || 
                     part.equals(mat[i-1][j]+s1.charAt(i-1)) || part.equals(mat[i][j-1]+s2.charAt(j-1)))
-                   // part.equals(mat[i-1][j-1]+s1.charAt(i-1)+s2.charAt(j-1)) ||
-                   // part.equals(mat[i-1][j-1]+s2.charAt(j-1)+s1.charAt(i-1)) )
                 {
                     mat[i][j] = part;
                 }
@@ -38,16 +35,6 @@ class Solution {
                 }
             }
         }
-/*
-        for(int i = 0; i <= len1; i++)
-        {
-            for(int j = 0; j <= len2; j++)
-            {
-                System.out.printf("%15s  ",mat[i][j]);
-            }
-            System.out.println();
-        }
-        */
         return mat[len1][len2].equals(s3);
     }
 }

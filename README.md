@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0539-minimum-time-difference](https://github.com/AnmolKumar74125/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AnmolKumar74125/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnmolKumar74125/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -89,8 +90,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
 ## Counting
 |  |
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->

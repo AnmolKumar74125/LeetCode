@@ -13,11 +13,9 @@ class AllOne {
         this.max = Math.max(hm.get(key) , this.max);
         if(hm.get(key)-1 == min || min == Integer.MAX_VALUE)
         {
-            //this.min = 
             getNewMin();
         }
         this.min = Math.min(hm.get(key) , this.min);
-        //System.out.println(this.hm);
     }
     
     public void dec(String key) {
@@ -28,16 +26,12 @@ class AllOne {
             hm.remove(key);
             getNewMax();
             getNewMin();
-           // System.out.println(this.hm);
             return ;
         }
         if(hm.containsKey(key) && (hm.get(key)+1 == max || max == Integer.MIN_VALUE))
         {
-            //this.max = 
             getNewMax();
         }
-        this.max = Math.max(hm.get(key) , this.max);
-        //System.out.println(this.hm);
     }
     public void getNewMax()
     {
@@ -56,8 +50,6 @@ class AllOne {
         }
     }
     public String getMaxKey() {
-
-        //System.out.println("max = "+this.max);
         for(Map.Entry<String,Integer> entry : this.hm.entrySet())
         {
             if(entry.getValue() == this.max)
@@ -69,7 +61,6 @@ class AllOne {
     }
     
     public String getMinKey() {
-        //System.out.println("min = "+this.min);
         for(Map.Entry<String,Integer> entry : this.hm.entrySet())
         {
             if(entry.getValue() == this.min)

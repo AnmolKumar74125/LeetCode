@@ -15,8 +15,6 @@ class Solution {
             {
                 cons ++;
             }
-             // System.out.print("i = "+i+" j = "+j+"cons = "+cons+"  A = ");
-             // System.out.println(hm);
             while(hm.size() == 5 && cons >= k)
             {
                 if(cons == k)
@@ -29,7 +27,6 @@ class Solution {
                     ch = word.charAt(x+1);
                     if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
                     {
-                    //    break;
                         count++;
                     }
                     else
@@ -55,8 +52,6 @@ class Solution {
                 
                 j++;
             }
- //           if(hm.size() == 5 && cons == k)
- //               count ++;
             i++;
         }
         return count;

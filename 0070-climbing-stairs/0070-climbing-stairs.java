@@ -12,7 +12,6 @@ class Solution {
             c = a + b;
             a = b;
             b = c;
-            System.out.println(a+" "+b+" "+c);
         }
         return c;
     }

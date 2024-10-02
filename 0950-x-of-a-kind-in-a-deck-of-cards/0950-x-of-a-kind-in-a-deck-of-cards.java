@@ -18,7 +18,6 @@ class Solution {
                 hm.put(deck[i],1);
             }
         }
-        System.out.println(hm);
         Integer arr[] = hm.values().toArray(new Integer[0]);
         int gcd = (int)arr[0];
         for(int i = 1; i < arr.length; i++)

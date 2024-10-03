@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AnmolKumar74125/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/AnmolKumar74125/LeetCode/tree/master/0859-design-circular-deque) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AnmolKumar74125/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1256-rank-transform-of-an-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AnmolKumar74125/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/AnmolKumar74125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/AnmolKumar74125/LeetCode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AnmolKumar74125/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/AnmolKumar74125/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0859-design-circular-deque](https://github.com/AnmolKumar74125/LeetCode/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AnmolKumar74125/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/AnmolKumar74125/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->

@@ -15,21 +15,16 @@ class Solution {
         Map<Integer,Integer> hm =new HashMap<Integer,Integer>();
         int curr = 0, ans = Integer.MAX_VALUE;
         hm.put(0 , -1);
-        System.out.println("val = "+val);
-        System.out.println(hm);
         for(int i = 0; i < n; i++)
         {
             curr = (curr + nums[i]) % p;
             int key = ((curr - val) + p) % p;
-            //System.out.println(key);
             if(hm.containsKey(key))
             {
                 ans = Math.min(ans, (i - hm.get(key)));
             }
             hm.put(curr, i);
-            //System.out.println(hm);
-        }   
-        System.out.println(hm);
+        }
         if(ans == Integer.MAX_VALUE || ans == n)
         {
             ans = -1;

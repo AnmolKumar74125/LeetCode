@@ -31,8 +31,6 @@ class Solution {
             }
             else
             {
-                ListNode temp2 = less.next;
-                //ListNode temp3 = temp.next;
                 if( more == null)
                 {
                     less.next = temp;

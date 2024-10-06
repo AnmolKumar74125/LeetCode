@@ -44,38 +44,10 @@ class Solution {
             j1--;
             j2--;
         }
-        System.out.println(a+". "+b);
         if(b <= a)
         {
             return true;
         }
         return false;
- /*
-        while(i < len1)
-        {
-            if(shortSen.charAt(i) != longSen.charAt(i))
-            {
-                break;
-            }
-            a = i;
-            i++;
-        }
-        while(b >= 0 && j >= 0)
-        {
-            if(shortSen.charAt(b) != longSen.charAt(j))
-            {
-                break;
-            } 
-            b--;
-            j--;
-        }
-        System.out.println(a+". "+b);
-        if(b > a)
-        {
-            return false;
-        }
-        if(i == 0 || longSen - )
-        return false;
-        */
     }
 }

@@ -23,12 +23,6 @@ class Solution {
             }
             if(shortSen.charAt(i) == ' ')
             {
-                /*
-                if(!(shortSen.substring(k,i+1).equals(longSen.substring(k,i+1))))
-                {
-                    break;
-                }
-                */
                 k = i;
                 a = i;
             }
@@ -43,12 +37,6 @@ class Solution {
             }
             if(shortSen.charAt(j1) == ' ')
             {
-                /*
-                if(!(shortSen.substring(j1, k1).equals(longSen.substring(j2, k2))))
-                {
-                    break;
-                }
-                */
                 k1 = j1;
                 k2 = j2;
                 b = j1;
@@ -56,7 +44,6 @@ class Solution {
             j1--;
             j2--;
         }
-        System.out.println(a +".  "+b);
         if(b <= a)
         {
             return true;

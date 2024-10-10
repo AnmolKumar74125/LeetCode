@@ -17,8 +17,14 @@ class Solution {
 
         // Find the maximum width ramp
         while (j < n) {
+            //System.out.println(n+". "+j);
+            
             while (i < j && nums[i] > maxRight[j]) {
                 i++;
+                if(ramp > (n-i)+1)
+                {
+                    break;
+                }
             }
             ramp = Math.max(ramp, j - i);
             j++;

@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnmolKumar74125/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnmolKumar74125/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/AnmolKumar74125/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AnmolKumar74125/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -211,10 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnmolKumar74125/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnmolKumar74125/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/AnmolKumar74125/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2650-split-with-minimum-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/2650-split-with-minimum-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnmolKumar74125/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/AnmolKumar74125/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->

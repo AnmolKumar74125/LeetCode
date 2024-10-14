@@ -2,7 +2,7 @@ class Solution {
     public long maxKelements(int[] nums, int k) {
         
         long ans = 0;
-        Queue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder());
+        Queue<Integer> pq = new PriorityQueue<>((a, b) -> b - a);
         for(int i = 0; i < nums.length; i++)
         {
             pq.add(nums[i]);

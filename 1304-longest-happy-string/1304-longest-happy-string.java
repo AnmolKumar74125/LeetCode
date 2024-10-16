@@ -4,7 +4,7 @@ class Solution {
         int arr[] = new int[3];
         int used[] = new int[3];
         PriorityQueue<Integer> pq = new PriorityQueue<Integer>((x,y) -> y-x);
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
         char prev = ' ';
         pq.add(a*10+1);
         pq.add(b*10+2);
@@ -23,7 +23,8 @@ class Solution {
             char curr = (char)('a' + (val1 % 10) - 1);
             if(arr[curr - 97] < 2)
             {
-                ans = ans + curr;
+                //ans = ans + curr;
+                ans.append(curr);
                 arr[curr - 97]++;
                 used[curr - 97]++;
                 if((val1 / 10) -1 > 0)
@@ -48,7 +49,8 @@ class Solution {
                     continue;
                 }
                 curr = (char)('a' + (val2 % 10) - 1);
-                ans = ans + curr;
+                //ans = ans + curr;
+                ans.append(curr);
                 arr[curr - 97]++;
                 used[curr - 97]++;
                 if((val2 / 10) -1 > 0)
@@ -66,6 +68,6 @@ class Solution {
                 prev = curr;
             }
         }
-        return ans;
+        return ans.toString();
     }
 }

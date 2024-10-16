@@ -9,7 +9,6 @@ class Solution {
         pq.add(a*10+1);
         pq.add(b*10+2);
         pq.add(c*10+3);
-        System.out.println(pq);
         while(a+b+c > (used[0]+used[1]+used[2]))
         {
             if(pq.isEmpty())
@@ -22,7 +21,6 @@ class Solution {
                 continue;
             }
             char curr = (char)('a' + (val1 % 10) - 1);
-           // System.out.println("A = " + val1+".  "+curr);
             if(arr[curr - 97] < 2)
             {
                 ans = ans + curr;
@@ -50,7 +48,6 @@ class Solution {
                     continue;
                 }
                 curr = (char)('a' + (val2 % 10) - 1);
-               // System.out.println("B = " + val2+".  "+curr);
                 ans = ans + curr;
                 arr[curr - 97]++;
                 used[curr - 97]++;
@@ -68,9 +65,7 @@ class Solution {
                 }
                 prev = curr;
             }
-           // System.out.println(pq);
         }
-        System.out.println(pq);
         return ans;
     }
 }

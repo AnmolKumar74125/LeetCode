@@ -26,7 +26,7 @@ class Solution {
             int val = nums.get(i);
             int c = count(nums.get(i));
             int v = (int) Math.pow(2, c) - 1;
-            if( v == val)
+ /*           if( v == val)
             {
                 int x = (int) Math.pow(2, c - 1);
                 if( (x | x-1) == val)
@@ -45,18 +45,24 @@ class Solution {
                 ans[i] = -1;
             }
             else
-            {
+   */         {
                 //ans[i] = ((val >> 1) << 1) ;
                 char ch[] = Integer.toBinaryString(val).toCharArray();
-                for(int j = ch.length-1; j > 0; j--)
+                int j;
+                for(j = ch.length-1; j > 0; j--)
                 {
                     if(ch[j] == '1' && ch[j-1] =='0')
                     {
-                        ch[j] = '0';
+                      //  ch[j] = '0';
                         break;
                     }
                 }
+                ch[j] = '0';
                 ans[i] = Integer.parseInt(new String(ch),2);
+                if((ans[i] | ans[i]+1) != val)
+                {
+                    ans[i] = -1;
+                }
             }
  //           System.out.println("ans[i] = "+ Integer.toBinaryString(ans[i]));
         }

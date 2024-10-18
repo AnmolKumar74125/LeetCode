@@ -39,7 +39,7 @@ class Solution {
                 }
                 continue;
             }
-            System.out.println(Integer.toBinaryString(val));
+  //          System.out.println(Integer.toBinaryString(val));
             if((val & 1 ) == 0)
             {
                 ans[i] = -1;
@@ -58,7 +58,7 @@ class Solution {
                 }
                 ans[i] = Integer.parseInt(new String(ch),2);
             }
-            System.out.println("ans[i] = "+ Integer.toBinaryString(ans[i]));
+ //           System.out.println("ans[i] = "+ Integer.toBinaryString(ans[i]));
         }
         return ans;
     }

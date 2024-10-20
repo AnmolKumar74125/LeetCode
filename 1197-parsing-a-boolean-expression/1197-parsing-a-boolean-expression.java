@@ -25,11 +25,9 @@ class Solution {
             else if(ch[i] == ')')
             {
                 char exp = st2.pop();
-                System.out.println("exp = "+exp);
                 List<Boolean> temp = st3.pop();
                 if(exp == '&')
                 {
-                    System.out.println("&");
                     boolean val = true;
                     for(int j = 0; j < temp.size(); j++)
                     {
@@ -48,7 +46,6 @@ class Solution {
                 }
                 if(exp == '|')
                 {
-                    System.out.println("|");
                     boolean val = false;
                     for(int j = 0; j < temp.size(); j++)
                     {
@@ -67,7 +64,6 @@ class Solution {
                 }
                 if(exp == '!')
                 {
-                    System.out.println("!");
                     boolean val = false;
                     for(int j = 0; j < temp.size(); j++)
                     {
@@ -102,22 +98,10 @@ class Solution {
                         temp.add(false);
                     }
                     i = j;
-                    System.out.println("i: "+i+" increamented j: "+(j+1)+" len: "+ch.length+"  ch[i]: "+ch[i]);
                     j++;
                 }
-                //st3.push(temp);
             }
-            System.out.println("st3 = "+st3);
         }
-        System.out.println("st1 = "+st1);
-        System.out.println("st2 = "+st2);
-        System.out.println("st3 = "+st3);
-        /*
-        while(!st3.isEmpty())
-        {
-            System.out.println("st3 = "+st3.pop());
-        }
-        */
         return st3.peek().get(0);   
     }
 }

@@ -1,7 +1,6 @@
 class Solution {
     public boolean parseBoolExpr(String expression) {
 
-        Stack<Character> st1 = new Stack<>();
         Stack<Character> st2 = new Stack<>();
         Stack<List<Boolean>> st3 = new Stack<>();
         st3.push(new ArrayList<Boolean>());
@@ -17,10 +16,6 @@ class Solution {
             {
                 st2.push(ch[i]);
                 st3.push(new ArrayList<Boolean>());
-            }
-            else if(ch[i] == '(')
-            {
-                st1.push(ch[i]);
             }
             else if(ch[i] == ')')
             {

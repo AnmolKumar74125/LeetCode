@@ -3,13 +3,11 @@ class Solution {
 
         Stack<Character> st2 = new Stack<>();
         Stack<List<Boolean>> st3 = new Stack<>();
-        st3.push(new ArrayList<Boolean>());
         if(expression.length() == 1)
         {
             return expression.charAt(0) == 't'?true:false;
         }
         char ch[] = expression.toCharArray();
-        boolean ans = false;
         for(int i = 0; i < ch.length; i++)
         {
             if(ch[i] == '&' || ch[i] == '|' || ch[i] == '!')

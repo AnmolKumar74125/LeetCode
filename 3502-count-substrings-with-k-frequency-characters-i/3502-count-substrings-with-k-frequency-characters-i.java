@@ -13,12 +13,9 @@ class Solution {
                 if(freq[ch[j]-97] >= k)
                 {
                     ans = ans + (ch.length - j);
-                    //System.out.println(j);
-                    //System.out.println(ans);
                     break;
                 }
             }
-            //System.out.println(Arrays.toString(freq));
             freq[ch[i]-97]--;
         }
         return ans;

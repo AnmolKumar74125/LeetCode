@@ -35,8 +35,8 @@ class Solution {
             }
             if(que.isEmpty())
             {
-                que = new LinkedList();
-                que.addAll(list);
+                que = new LinkedList<>(list);
+                //que.addAll(list);
                 list = new ArrayList<>();
                 ans.add(sum);
                 sum = 0;

@@ -45,33 +45,24 @@ class Solution {
         System.out.println(sumArr);
         que.add(root);
         root.val = 0;
-        TreeNode ans = new TreeNode(0);
-       // Queue<TreeNode> que = new LinkedList();
-       // List<TreeNode> list = new ArrayList<>();
         while(!que.isEmpty() && i < sumArr.size())
         {
             TreeNode front = que.poll();
             int value = sumArr.get(i);
-            System.out.print(value+"  ");
             if(front.left != null)
             {
                 list.add(front.left);
                 value = value - front.left.val;
-                System.out.print(front.left.val+"  ");
             }
             if(front.right != null)
             {
                 list.add(front.right);
                 value = value - front.right.val;
                 front.right.val = value;
-
-                System.out.print(front.right.val+"  ");
             }
             if(front.left != null)
             {
                 front.left.val = value;
-
-                System.out.println(value+"  ");
             }
             
             if(que.isEmpty())

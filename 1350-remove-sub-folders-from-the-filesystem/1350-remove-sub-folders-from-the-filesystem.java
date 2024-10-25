@@ -10,10 +10,8 @@ class Solution {
             folder[i]+="/";
             for(int j = 0; j<folder[i].length()-1; j++)
             {
-                //System.out.println(folder[i]);
                 if(folder[i].charAt(j) == '/')
                 {
-                    //System.out.println(j+". "+folder[i].indexOf('/',j+1));
                     w = w + folder[i].substring(j,folder[i].indexOf('/',j+1));
                     if( hs.contains(w))
                     {
@@ -28,7 +26,6 @@ class Solution {
             }
             hs.add(w);
         }
-        //System.out.println(hs);
         return new ArrayList<>(hs);
     }
 }

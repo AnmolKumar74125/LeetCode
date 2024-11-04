@@ -17,7 +17,7 @@ class Solution {
             {
                 if(count == 9)
                 {
-                    ans.append(count + "" + prev);
+                    ans.append(count).append(prev);
                     //ans = ans + count + prev;
                     count = 0;
                     prev = ch;
@@ -26,22 +26,14 @@ class Solution {
             }
             else
             {
-                ans.append(count + "" + prev);
+                ans.append(count).append(prev);
                 //ans = ans + count + prev; 
                 count = 1;
                 prev = ch;
             }
             i++;
         }
-
-        if(prev == word.charAt(n-1))
-        {
-            ans.append(count + "" + prev);
-        }
-        else
-        {
-            ans.append("1"+word.charAt(n-1));
-        }
+        ans.append(count).append(prev);
         //return ans;
         return ans.toString();
     }

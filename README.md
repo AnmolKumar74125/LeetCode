@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/AnmolKumar74125/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AnmolKumar74125/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2580-circular-sentence](https://github.com/AnmolKumar74125/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AnmolKumar74125/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/AnmolKumar74125/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AnmolKumar74125/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |

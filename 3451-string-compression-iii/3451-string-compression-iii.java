@@ -2,7 +2,6 @@ class Solution {
     public String compressedString(String word) {
         
         StringBuilder ans = new StringBuilder();
-        //String ans = "";
         int i = 1, count = 1;
         int n = word.length();
         char prev = word.charAt(0);
@@ -18,7 +17,6 @@ class Solution {
                 if(count == 9)
                 {
                     ans.append(count).append(prev);
-                    //ans = ans + count + prev;
                     count = 0;
                     prev = ch;
                 }
@@ -27,14 +25,12 @@ class Solution {
             else
             {
                 ans.append(count).append(prev);
-                //ans = ans + count + prev; 
                 count = 1;
                 prev = ch;
             }
             i++;
         }
         ans.append(count).append(prev);
-        //return ans;
         return ans.toString();
     }
 }

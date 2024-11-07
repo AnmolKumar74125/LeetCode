@@ -1,7 +1,6 @@
 class Solution {
     public int largestCombination(int[] candidates) {
         
-        int arr[] = new int [256];
         int max = 0;
         for(int i = 0; i < 32; i++)
         {

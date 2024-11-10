@@ -23,15 +23,11 @@ class Solution {
                 {
                     break;
                 }
-                
-                //System.out.print(arr[x]+" ");
             }
             for(int x = 31; x >= 0; x--)
             {
                 val = (val << 1) | ((arr[x] > 0) ? 1 : 0);
             }
-           // System.out.println();
-           // System.out.println("A val = "+val);
             while(j <= i && val >= k)
             {
                 min = Math.min(min, i-(j-1));
@@ -56,7 +52,6 @@ class Solution {
                 {
                     val = (val << 1) | ((arr[x] > 0) ? 1 : 0);
                 }
-                //System.out.println("B val = "+val);
                 j++;
             }
             i++;

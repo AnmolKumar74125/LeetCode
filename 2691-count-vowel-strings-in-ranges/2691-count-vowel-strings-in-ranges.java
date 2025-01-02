@@ -14,7 +14,7 @@ class Solution {
             }
             arr[i] = l;
         }
-        System.out.println(Arrays.toString(arr));
+       // System.out.println(Arrays.toString(arr));
         for(int i = 0; i < n; i++)
         {
             ans[i] = arr[queries[i][1]] - (((queries[i][0] - 1) >= 0)?arr[queries[i][0] - 1] : 0);

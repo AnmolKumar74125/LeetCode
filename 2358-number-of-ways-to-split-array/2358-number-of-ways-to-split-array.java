@@ -14,11 +14,8 @@ class Solution {
         {
             if(sumArr[i] >= (total - sumArr[i]))
             {
-                //break;
-                //continue;
                 ans++;
             }
-            //ans++;
         }
         return ans;
     }

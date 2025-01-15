@@ -10,9 +10,6 @@ class Solution {
             count = count + arr[31-i];
             total = total + ((num2 >> i) & 1);
         }
-        System.out.println("total = "+ total);
-        System.out.println("count = "+ count);
-        System.out.println("arr = "+ Arrays.toString(arr));
         if(total == count)
         {
             return num1;
@@ -33,9 +30,9 @@ class Solution {
         {
             int x = total - count;
             int arr2[] = new int[32];
-            for(int i = 31; i >= 0; i--)
+            for(int i = 31; i >= 0 && x > 0; i--)
             {
-                if(x > 0 && arr[i] == 0)
+                if(arr[i] == 0)
                 {
                     arr[i] = 1;
                     x--;
@@ -43,7 +40,6 @@ class Solution {
             }
             //arr = arr2;
         }
-        System.out.println("arr = "+ Arrays.toString(arr));
         int ans = 0;
         for(int i = 0; i < 32; i++)
         {

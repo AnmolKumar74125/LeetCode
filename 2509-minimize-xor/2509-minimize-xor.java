@@ -29,7 +29,6 @@ class Solution {
         else
         {
             int x = total - count;
-            int arr2[] = new int[32];
             for(int i = 31; i >= 0 && x > 0; i--)
             {
                 if(arr[i] == 0)
@@ -38,7 +37,6 @@ class Solution {
                     x--;
                 }
             }
-            //arr = arr2;
         }
         int ans = 0;
         for(int i = 0; i < 32; i++)

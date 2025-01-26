@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/AnmolKumar74125/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnmolKumar74125/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/AnmolKumar74125/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AnmolKumar74125/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AnmolKumar74125/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AnmolKumar74125/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AnmolKumar74125/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolKumar74125/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolKumar74125/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3189-find-champion-ii) |
@@ -473,4 +475,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AnmolKumar74125/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AnmolKumar74125/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->

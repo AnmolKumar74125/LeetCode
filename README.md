@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/AnmolKumar74125/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolKumar74125/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AnmolKumar74125/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolKumar74125/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/AnmolKumar74125/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AnmolKumar74125/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolKumar74125/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolKumar74125/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/AnmolKumar74125/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/AnmolKumar74125/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |

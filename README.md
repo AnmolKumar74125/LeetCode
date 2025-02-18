@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnmolKumar74125/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/AnmolKumar74125/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnmolKumar74125/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AnmolKumar74125/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/AnmolKumar74125/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/AnmolKumar74125/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AnmolKumar74125/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AnmolKumar74125/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/AnmolKumar74125/LeetCode/tree/master/3447-clear-digits) |
 ## Number Theory
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/AnmolKumar74125/LeetCode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnmolKumar74125/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnmolKumar74125/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AnmolKumar74125/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolKumar74125/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Enumeration
 |  |
 | ------- |

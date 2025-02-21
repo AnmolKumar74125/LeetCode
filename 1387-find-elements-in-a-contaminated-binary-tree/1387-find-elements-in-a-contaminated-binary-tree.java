@@ -18,9 +18,7 @@ class FindElements {
     Set<Integer> ans;
     public FindElements(TreeNode root) {
         ans = new HashSet<Integer>();
-        //ans.add(0);
         createTree(root, 0);
-        System.out.println(ans);
     }
     
     public void createTree(TreeNode root, int val)

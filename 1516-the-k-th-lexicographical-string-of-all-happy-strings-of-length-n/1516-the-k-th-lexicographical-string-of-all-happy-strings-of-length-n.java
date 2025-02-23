@@ -15,7 +15,6 @@ class Solution {
             }
         }
         generate(s, s.length()-1, temp, n, k);
-        System.out.println(temp);
         return (k <= temp.size())?temp.get(k-1): "";
     }
 

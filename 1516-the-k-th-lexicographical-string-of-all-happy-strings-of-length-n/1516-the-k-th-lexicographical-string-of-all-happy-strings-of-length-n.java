@@ -30,7 +30,6 @@ class Solution {
         {
             if(ind == 0)
             {
-                System.out.println(s+".   "+k);
                 if(isHappy(s))
                 {
                     temp.add(s);
@@ -40,7 +39,6 @@ class Solution {
         }
         else
         {
-            System.out.println(s+".   "+k);
             if(isHappy(s))
             {
                 temp.add(s);
@@ -48,7 +46,6 @@ class Solution {
             }
             ch = (char)(ch + 1);
             s = s.substring(0, ind) + ch;
-            System.out.println("s = "+s);
             for(int i = s.length(); i < n; i++)
             {
                 if(s.charAt(i-1) == 'a')

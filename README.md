@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/AnmolKumar74125/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/AnmolKumar74125/LeetCode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolKumar74125/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AnmolKumar74125/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-maximum-width-ramp](https://github.com/AnmolKumar74125/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnmolKumar74125/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/AnmolKumar74125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnmolKumar74125/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AnmolKumar74125/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnmolKumar74125/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AnmolKumar74125/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AnmolKumar74125/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -519,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AnmolKumar74125/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AnmolKumar74125/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->

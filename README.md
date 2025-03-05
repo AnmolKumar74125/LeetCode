@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/AnmolKumar74125/LeetCode/tree/master/0670-maximum-swap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AnmolKumar74125/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2448-count-number-of-bad-pairs](https://github.com/AnmolKumar74125/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/AnmolKumar74125/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/AnmolKumar74125/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |

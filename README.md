@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0097-interleaving-string) |
 | [0214-shortest-palindrome](https://github.com/AnmolKumar74125/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnmolKumar74125/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0383-ransom-note](https://github.com/AnmolKumar74125/LeetCode/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/AnmolKumar74125/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0812-rotate-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AnmolKumar74125/LeetCode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/AnmolKumar74125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnmolKumar74125/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AnmolKumar74125/LeetCode/tree/master/0383-ransom-note) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AnmolKumar74125/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1396-count-servers-that-communicate](https://github.com/AnmolKumar74125/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/1502-construct-k-palindrome-strings) |

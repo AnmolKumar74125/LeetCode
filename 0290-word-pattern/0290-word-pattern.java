@@ -23,8 +23,6 @@ class Solution {
             hm.put(ch, w);
             hm2.put(w, ch);
         }
-        System.out.println(hm);
-        System.out.println(hm2);
         if(k < n2 || i < n1)
         {
             return false;

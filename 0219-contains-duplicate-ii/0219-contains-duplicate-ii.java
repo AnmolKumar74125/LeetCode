@@ -10,7 +10,6 @@ class Solution {
             }
             hm.put(nums[i], i);
         }
-        System.out.println(hm);
         return false;
     }
 }

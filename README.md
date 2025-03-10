@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/AnmolKumar74125/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnmolKumar74125/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0290-word-pattern](https://github.com/AnmolKumar74125/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AnmolKumar74125/LeetCode/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/AnmolKumar74125/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/AnmolKumar74125/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AnmolKumar74125/LeetCode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/AnmolKumar74125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |

@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/AnmolKumar74125/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnmolKumar74125/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnmolKumar74125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolKumar74125/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/AnmolKumar74125/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AnmolKumar74125/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/AnmolKumar74125/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/AnmolKumar74125/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnmolKumar74125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnmolKumar74125/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AnmolKumar74125/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolKumar74125/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnmolKumar74125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolKumar74125/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AnmolKumar74125/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Search Tree
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AnmolKumar74125/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnmolKumar74125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnmolKumar74125/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AnmolKumar74125/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Divide and Conquer

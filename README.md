@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AnmolKumar74125/LeetCode/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/AnmolKumar74125/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/AnmolKumar74125/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnmolKumar74125/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/AnmolKumar74125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnmolKumar74125/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/AnmolKumar74125/LeetCode/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AnmolKumar74125/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnmolKumar74125/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/AnmolKumar74125/LeetCode/tree/master/0086-partition-list) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/AnmolKumar74125/LeetCode/tree/master/0768-partition-labels) |
 | [1923-sentence-similarity-iii](https://github.com/AnmolKumar74125/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/AnmolKumar74125/LeetCode/tree/master/1972-rotating-the-box) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnmolKumar74125/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/AnmolKumar74125/LeetCode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/AnmolKumar74125/LeetCode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnmolKumar74125/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/AnmolKumar74125/LeetCode/tree/master/1502-construct-k-palindrome-strings) |

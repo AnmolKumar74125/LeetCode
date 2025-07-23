@@ -14,9 +14,7 @@ public:
             val2 = y;
         }
         ans = calc(s,ch1, ch2, val2, st);
-        cout << endl;
         s = "";
-
         s.reserve(st.size());
         while (!st.empty()) {
             char ch = st.top();
@@ -25,9 +23,6 @@ public:
         }
         reverse(s.begin(), s.end());
         ans = ans + calc(s, ch2, ch1, val1, st);
-           // cout<<w<<endl;
-      //  cout << "2 = ";
-      //  printStack(st);
         return ans;
     }
     int calc (string s, char ch1, char ch2, int val, stack<char>& st)
@@ -46,23 +41,8 @@ public:
                     st.push(s[i]);
                 }
             }
-            //printStack(st);
-            //cout <<endl;
-            //cout <<"ans = " <<ans<<endl;
         }
         return ans;
     }
 
-        //cout << "1 = ";
-        //printStack(st);
-   void printStack(std::stack<char> s) { // Pass by value to avoid modifying original
-        if (s.empty()) {
-            return;
-        }
-        char topElement = s.top();
-        s.pop();
-        printStack(s); // Recursive call
-        std::cout << topElement << " ";
-        s.push(topElement); // Push back to restore original order
-    }
 };

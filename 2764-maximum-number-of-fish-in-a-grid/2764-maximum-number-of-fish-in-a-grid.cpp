@@ -7,7 +7,10 @@ public:
         {
             for(int j = 0; j < grid[i].size(); j++)
             {
-                ans = max(ans, calc(grid, i, j));
+                if(grid[i][j] != 0)
+                {
+                    ans = max(ans, calc(grid, i, j));
+                }
             }
         }
         return ans;

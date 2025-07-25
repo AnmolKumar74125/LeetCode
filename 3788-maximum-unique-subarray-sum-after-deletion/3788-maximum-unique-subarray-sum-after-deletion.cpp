@@ -4,7 +4,7 @@ public:
         
         int max = INT_MIN;
         int sum = 0;
-        set<int> hs;
+        unordered_set<int> hs;
         for(int i = 0; i < nums.size(); i++)
         {
             if(!hs.contains(nums[i]) && nums[i]>0)

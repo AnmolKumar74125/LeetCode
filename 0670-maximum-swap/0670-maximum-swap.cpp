@@ -15,7 +15,6 @@ public:
         }
         reverse(arr.begin(),arr.end());
         reverse(s.begin(),s.end());
-        cout<<"s = "<<s<<endl;
         int pos1 = -1,v1 = -1, x = -1;
         for(int i = 0; i < s.length(); i++)
         {
@@ -27,17 +26,10 @@ public:
                 break;
             }
         }
-        for(int i = 0; i < arr.size(); i++)
-        {
-            cout<<arr[i]<<" ";
-        }
-        cout<<endl;
         string w = "";
         bool f = false;
         int ans = 0;
-        cout<<"pos1 = "<<pos1 << " v1 = "<<v1<< " x = "<<x<<endl;
         for(int i = s.length()-1; i >= 0; i--)
-        //for(int i = 0; i < s.length(); i++)
         {
             if(((int)(s[i])-48) == v1 && f==false)
             {
@@ -56,7 +48,6 @@ public:
         {
             ans =ans * 10 + (int)(w[i] - 48);   
         }
-        cout<<"w = "<<w<<endl;
         return ans;
     }
 };

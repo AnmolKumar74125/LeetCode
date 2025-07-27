@@ -7,39 +7,19 @@ public:
         {
             if(nums[i] > nums[i-1])
             {
-                if(curr == 0)
+                if(curr < 0)
                 {
-                    curr = 1;
-                    continue;
-                }
-                if(curr > 0)
-                {
-                    continue;
-                }
-                else
-                {
-                    cout<<"A  i = "<<i<<endl;
-                    curr = 1;
                     ans ++;
                 }
+                curr = 1;
             }
             else if(nums[i]<nums[i-1])
             {
-                if(curr == 0)
+                if(curr > 0)
                 {
-                    curr = -1;
-                    continue;
-                }
-                if(curr < 0)
-                {
-                    continue;
-                }
-                else
-                {
-                    cout<<"B  i = "<<i<<endl;
-                    curr =  -1;
                     ans++;
                 }
+                curr =  -1;
             }
         }
         return ans;

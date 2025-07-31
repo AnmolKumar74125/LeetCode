@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/AnmolKumar74125/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AnmolKumar74125/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnmolKumar74125/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Recursion
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AnmolKumar74125/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |

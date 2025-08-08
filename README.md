@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/AnmolKumar74125/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/AnmolKumar74125/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AnmolKumar74125/LeetCode/tree/master/0078-subsets) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AnmolKumar74125/LeetCode/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/AnmolKumar74125/LeetCode/tree/master/0086-partition-list) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/AnmolKumar74125/LeetCode/tree/master/0768-partition-labels) |

@@ -4,10 +4,11 @@ public:
              
         int minr = INT_MAX, minc = INT_MAX;
         int maxc = 0, maxr = 0;
-
-        for(int i = 0; i < grid.size(); i++)
+        int m = grid.size();
+        int n = grid[0].size();
+        for(int i = 0; i < m; i++)
         {
-            for(int j = 0; j < grid[i].size(); j++)
+            for(int j = 0; j < n; j++)
             {
                 if(grid[i][j] == 1)
                 {

@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/AnmolKumar74125/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/AnmolKumar74125/LeetCode/tree/master/0684-redundant-connection) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AnmolKumar74125/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Union Find
 |  |

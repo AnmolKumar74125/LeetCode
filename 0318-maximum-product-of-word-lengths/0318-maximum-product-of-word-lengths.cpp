@@ -11,7 +11,6 @@ public:
                 x = x | (1 << ((int)words[i][j] - 97));
             }
             vec.push_back(x);
-            cout<<x<<" ";
         }
         int ans = 0;
         for(int i = 0;i < vec.size(); i++)
@@ -24,7 +23,6 @@ public:
                 }
             }
         }
-        cout <<endl;
         return ans;
     }
 };

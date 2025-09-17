@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnmolKumar74125/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnmolKumar74125/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2429-design-a-food-rating-system](https://github.com/AnmolKumar74125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AnmolKumar74125/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolKumar74125/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolKumar74125/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2429-design-a-food-rating-system](https://github.com/AnmolKumar74125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/AnmolKumar74125/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnmolKumar74125/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnmolKumar74125/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolKumar74125/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2429-design-a-food-rating-system](https://github.com/AnmolKumar74125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/AnmolKumar74125/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnmolKumar74125/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnmolKumar74125/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/AnmolKumar74125/LeetCode/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AnmolKumar74125/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2429-design-a-food-rating-system](https://github.com/AnmolKumar74125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2429-design-a-food-rating-system](https://github.com/AnmolKumar74125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/AnmolKumar74125/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -537,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/1304-longest-happy-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolKumar74125/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnmolKumar74125/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2429-design-a-food-rating-system](https://github.com/AnmolKumar74125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnmolKumar74125/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnmolKumar74125/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |

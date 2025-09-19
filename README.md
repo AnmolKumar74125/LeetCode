@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnmolKumar74125/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3830-find-closest-person](https://github.com/AnmolKumar74125/LeetCode/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |

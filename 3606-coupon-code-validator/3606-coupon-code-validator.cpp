@@ -31,22 +31,18 @@ public:
             {
                 if(!(strcmp(businessLine[i].c_str(), "electronics")))
                 {
-                    cout<<"A"<<endl;
                     elec.push_back(code[i]);
                 }
                 else if(!(strcmp(businessLine[i].c_str(), "grocery")))
                 {
-                    cout<<"B"<<endl;
                     groc.push_back(code[i]);
                 }
                 else if(!(strcmp(businessLine[i].c_str(), "pharmacy")))
                 {
-                    cout<<"C"<<endl;
                     phar.push_back(code[i]);
                 }
                 else if(!(strcmp(businessLine[i].c_str(), "restaurant")))
                 {
-                    cout<<"D"<<endl;
                     rest.push_back(code[i]);
                 }
             }

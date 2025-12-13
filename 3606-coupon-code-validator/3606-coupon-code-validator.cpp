@@ -9,12 +9,15 @@ public:
         vector<string> ans;
         for(int i = 0; i < businessLine.size(); i++)
         {
-            /*
-            if((strcmp(businessLine[i], "electronics") && strcmp(businessLine[i], "grocery") &&strcmp(businessLine[i], "pharmacy") && strcmp(businessLine[i], "restaurant"))
+            
+            if((strcmp(businessLine[i].c_str(), "electronics") && strcmp(businessLine[i].c_str(), "grocery") && strcmp(businessLine[i].c_str(), "pharmacy") && strcmp(businessLine[i].c_str(), "restaurant")))
             {
                 isActive[i] = false;
             }
-            */
+            if(!isActive[i])
+            {
+                continue;
+            }
             for(int j = 0; j < code[i].length();j++)
             {
                 if(!((code[i][j] >= 65 && code[i][j] <= 91) || (code[i][j] >= 97 && code[i][j] <= 122) || (code[i][j] >= 48 && code[i][j] <= 57) || (code[i][j] == 95)))

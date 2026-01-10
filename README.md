@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AnmolKumar74125/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0090-subsets-ii) |
 | [0219-contains-duplicate-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/AnmolKumar74125/LeetCode/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/AnmolKumar74125/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0368-largest-divisible-subset](https://github.com/AnmolKumar74125/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AnmolKumar74125/LeetCode/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/AnmolKumar74125/LeetCode/tree/master/0086-partition-list) |
+| [0283-move-zeroes](https://github.com/AnmolKumar74125/LeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/AnmolKumar74125/LeetCode/tree/master/0768-partition-labels) |
 | [1923-sentence-similarity-iii](https://github.com/AnmolKumar74125/LeetCode/tree/master/1923-sentence-similarity-iii) |

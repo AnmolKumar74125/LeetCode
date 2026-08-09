@@ -22,14 +22,12 @@ public:
         string ans = "";
         while(!st.empty())
         {
-            //ans.insert(0,st.top());
             if(k > 0)
             {
                 k--;
                 st.pop();
                 continue;
             }
-            //ans = st.top() + ans;
             ans.push_back(st.top()); 
             st.pop();
         }

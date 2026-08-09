@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnmolKumar74125/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AnmolKumar74125/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnmolKumar74125/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AnmolKumar74125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AnmolKumar74125/LeetCode/tree/master/0283-move-zeroes) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnmolKumar74125/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolKumar74125/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AnmolKumar74125/LeetCode/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/AnmolKumar74125/LeetCode/tree/master/0086-partition-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnmolKumar74125/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AnmolKumar74125/LeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/AnmolKumar74125/LeetCode/tree/master/0768-partition-labels) |

@@ -23,14 +23,6 @@ public:
             }
         }
         
-        for (const auto& [key, value] : hm) 
-        {
-            printVector(key);
-            std::cout << " -> ";
-            printVector(value);
-            std::cout << std::endl;
-        }
-
         map<vector<int>,vector<int>>::iterator itr;
         for(itr = hm.begin(); itr != hm.end(); itr++)
         {
@@ -43,13 +35,4 @@ public:
         }
         return ans;
     }
-    // Helper function to print a single vector
-void printVector(const std::vector<int>& vec) {
-    std::cout << "[";
-    for (size_t i = 0; i < vec.size(); ++i) {
-        std::cout << vec[i];
-        if (i < vec.size() - 1) std::cout << ", ";
-    }
-    std::cout << "]";
-}
 };

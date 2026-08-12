@@ -11,8 +11,8 @@ public:
         {
             arr[nums[i] + 10000 + 1] += 100000;
         }
-        sort(arr.begin(), arr.end());
-        reverse(arr.begin(), arr.end());
+        sort(arr.begin(), arr.end(), greater<int>());
+        //reverse(arr.begin(), arr.end());
         vector<int> ans;
         for(int i = 0; i < arr.size(); i++)
         {

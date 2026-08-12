@@ -20,7 +20,6 @@ public:
             {
                 ans.push_back(arr[i]%100000 - 10001);
                 k--;
-                cout<< arr[i] << endl;
             }
             if(k == 0)
             {

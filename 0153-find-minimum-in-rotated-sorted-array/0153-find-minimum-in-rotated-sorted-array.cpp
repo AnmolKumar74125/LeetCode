@@ -11,14 +11,12 @@ public:
         {
             return nums[j];
         }
-        int arr_0 = nums[0];
         int arr_n = nums[j];
         i++;
         j--;
         while(i>0 && j < nums.size() && i<=j)
         {
             int mid = (i + j) / 2;
-            cout << i <<". "<<j<<". "<<mid<<endl;
             if(nums[mid] < nums[mid - 1] && nums[mid] < nums[mid + 1])
             {
                 return nums[mid];

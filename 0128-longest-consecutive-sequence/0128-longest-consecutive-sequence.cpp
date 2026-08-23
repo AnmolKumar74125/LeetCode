@@ -9,8 +9,6 @@ public:
         }
 
         int ans = 0;
-       // printMap(hm);
-       // cout<<endl;
         unordered_map<int,int>::iterator itr;
         for(itr = hm.begin(); itr != hm.end(); itr++)
         {
@@ -18,21 +16,10 @@ public:
             while(hm.contains(k - 1) && hm[k-1] != -1)
             {
                 hm[itr->first] += hm[--k] ;
-                //k--;
                 hm[k] = -1;
-                //cout<<k<<".   "<<itr->first<<" -> "<<hm[itr->first]<<endl;
             }
             ans = max(ans, hm[itr->first]);
         }
-        //printMap(hm);
         return ans;
-    }
-    void printMap(unordered_map<int, int> hm)
-    {
-        unordered_map<int,int>::iterator itr;
-        for(itr = hm.begin(); itr != hm.end(); itr++)
-        {
-            cout<<itr->first<<" -> "<<itr->second<<endl;
-        }
     }
 };

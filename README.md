@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AnmolKumar74125/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/AnmolKumar74125/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AnmolKumar74125/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/AnmolKumar74125/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AnmolKumar74125/LeetCode/tree/master/0049-group-anagrams) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnmolKumar74125/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/AnmolKumar74125/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AnmolKumar74125/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AnmolKumar74125/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AnmolKumar74125/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnmolKumar74125/LeetCode/tree/master/0036-valid-sudoku) |
 | [0787-sliding-puzzle](https://github.com/AnmolKumar74125/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/AnmolKumar74125/LeetCode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AnmolKumar74125/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |

@@ -6,18 +6,15 @@ public:
         while(i<=j)
         {
             if((s[i] < 65 || s[i] > 90) && (s[i] < 97 || s[i] > 122) && (s[i] < 48 || s[i] > 57))
-            //if(s[i] < 32 && s[i] > 122)
             {
                 i++;
                 continue;
             }
             if((s[j] < 65 || s[j] > 90) && (s[j] < 97 || s[j] > 122) && (s[j] < 48 || s[j] > 57))
-            //if(s[j] < 32 && s[j] > 122)
             {
                 j--;;
                 continue;
             }
-            //cout<<s[i]<<" == "<<s[j]<<endl;
             if(tolower(s[i]) != tolower(s[j]))
             {
                 return false;

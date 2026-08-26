@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AnmolKumar74125/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/AnmolKumar74125/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/AnmolKumar74125/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnmolKumar74125/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AnmolKumar74125/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/AnmolKumar74125/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolKumar74125/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AnmolKumar74125/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnmolKumar74125/LeetCode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/AnmolKumar74125/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/AnmolKumar74125/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnmolKumar74125/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/AnmolKumar74125/LeetCode/tree/master/0768-partition-labels) |

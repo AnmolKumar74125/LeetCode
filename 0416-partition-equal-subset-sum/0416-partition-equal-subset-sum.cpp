@@ -33,19 +33,6 @@ public:
                 }
             }
        }
-       for(int i = 0 ; i <= n; i++)
-       {
-            //printArr(arr[i], sum);
-       }
-       cout<<n <<" "<<sum<<". "<<arr[n][sum]<<endl;
        return (arr[n][sum]==1)?true:false;
-    }
-    void printArr(bool arr[], int n)
-    {
-        for(int i = 0; i <= n; i++)
-        {
-            cout<<arr[i]<<" ";
-        }
-        cout<<endl;
     }
 };

@@ -20,7 +20,6 @@ public:
        }
        vector<bool> tmp;
        tmp = arr;
-       printArr(arr,sum);
        for(int i = 0 ; i < n; i++)
        {
             for(int j = 1; j <= sum; j++)
@@ -31,16 +30,7 @@ public:
                 }
             }
             tmp = arr;
-            //printArr(arr,sum);
        }
-       return (arr[sum]==1)?true:false;
-    }
-    void printArr(vector<bool> arr, int n)
-    {
-        for(int i = 0; i < n; i++)
-        {
-            cout<<arr[i]<<" ";
-        }
-        cout<<endl;
+       return arr[sum];
     }
 };

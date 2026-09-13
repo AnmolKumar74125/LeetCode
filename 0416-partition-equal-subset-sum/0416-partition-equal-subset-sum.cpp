@@ -12,27 +12,35 @@ public:
             return false;
        }
        sum = sum/2;
-       bool arr[n + 1][sum + 1];
-       
-       for(int i = 0; i <= n; i++)
-       {
-            arr[i][0] = true;
-       }
+       vector<bool> arr;
+       arr.push_back(true);
        for(int i = 1; i <= sum; i++)
        {
-            arr[0][i] = false;
+            arr.push_back(false);
        }
-       for(int i = 1 ; i <= n; i++)
+       vector<bool> tmp;
+       tmp = arr;
+       printArr(arr,sum);
+       for(int i = 0 ; i < n; i++)
        {
             for(int j = 1; j <= sum; j++)
             {
-                arr[i][j] = arr[i-1][j];
-                if(j  >= nums[i-1])
+                if(j  >= nums[i])
                 {
-                    arr[i][j] = (arr[i-1][j] || arr[i-1][j-nums[i-1]]);
+                    arr[j] = (tmp[j] || tmp[j-nums[i]]);
                 }
             }
+            tmp = arr;
+            //printArr(arr,sum);
        }
-       return (arr[n][sum]==1)?true:false;
+       return (arr[sum]==1)?true:false;
+    }
+    void printArr(vector<bool> arr, int n)
+    {
+        for(int i = 0; i < n; i++)
+        {
+            cout<<arr[i]<<" ";
+        }
+        cout<<endl;
     }
 };

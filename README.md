@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnmolKumar74125/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnmolKumar74125/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2611-mice-and-cheese](https://github.com/AnmolKumar74125/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnmolKumar74125/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnmolKumar74125/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AnmolKumar74125/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/AnmolKumar74125/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnmolKumar74125/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnmolKumar74125/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2611-mice-and-cheese](https://github.com/AnmolKumar74125/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AnmolKumar74125/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/AnmolKumar74125/LeetCode/tree/master/2509-minimize-xor) |
+| [2611-mice-and-cheese](https://github.com/AnmolKumar74125/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnmolKumar74125/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2650-split-with-minimum-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/AnmolKumar74125/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnmolKumar74125/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnmolKumar74125/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2611-mice-and-cheese](https://github.com/AnmolKumar74125/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnmolKumar74125/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AnmolKumar74125/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |

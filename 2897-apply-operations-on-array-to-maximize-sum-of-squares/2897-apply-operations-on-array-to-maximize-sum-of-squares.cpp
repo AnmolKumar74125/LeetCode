@@ -7,14 +7,16 @@ public:
         for(int i = 0; i < nums.size(); i++)
         {
             int j = 0;
+            int p = nums[i];
             //cout << (nums[i] >> j)<< "   "<<((nums[i] >> j) & 1)<<endl;
-            while(j < 32)
+            while(j < 32 && p > 0)
             {
                 if((nums[i] >> j) & 1 >= 1)
                 {
                     arr[j]++;
                     x = max(x, arr[j]);
                 }
+                p = p >> 1; 
                 j++;
             }
         }

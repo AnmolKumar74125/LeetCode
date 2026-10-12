@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/AnmolKumar74125/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AnmolKumar74125/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AnmolKumar74125/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnmolKumar74125/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AnmolKumar74125/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AnmolKumar74125/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnmolKumar74125/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnmolKumar74125/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/AnmolKumar74125/LeetCode/tree/master/2509-minimize-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnmolKumar74125/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AnmolKumar74125/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AnmolKumar74125/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AnmolKumar74125/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnmolKumar74125/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnmolKumar74125/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AnmolKumar74125/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AnmolKumar74125/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AnmolKumar74125/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2650-split-with-minimum-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/AnmolKumar74125/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnmolKumar74125/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AnmolKumar74125/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AnmolKumar74125/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3195-separate-black-and-white-balls](https://github.com/AnmolKumar74125/LeetCode/tree/master/3195-separate-black-and-white-balls) |

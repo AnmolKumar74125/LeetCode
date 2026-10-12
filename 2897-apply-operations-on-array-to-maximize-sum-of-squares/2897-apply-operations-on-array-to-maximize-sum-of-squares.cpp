@@ -8,7 +8,6 @@ public:
         {
             int j = 0;
             int p = nums[i];
-            //cout << (nums[i] >> j)<< "   "<<((nums[i] >> j) & 1)<<endl;
             while(j < 32 && p > 0)
             {
                 if((nums[i] >> j) & 1 >= 1)
@@ -20,12 +19,7 @@ public:
                 j++;
             }
         }
-      /*
-        for(int i = 0; i < 32; i++)
-        {
-            cout << " arr["<<i<<"] = "<<arr[i]<<endl;
-        }
-        */
+
         int i = 0;
         while(i < k && x != 0)
         {
@@ -40,7 +34,6 @@ public:
                     x = arr[j] > 0 ? 1:x;
                 }
             }
-            //cout << "val = "<<val<<endl;
             ans = (ans + (((long long)val * val) % 1000000007))%1000000007;
             i++;
         }

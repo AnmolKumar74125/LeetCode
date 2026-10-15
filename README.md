@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/AnmolKumar74125/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AnmolKumar74125/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolKumar74125/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolKumar74125/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnmolKumar74125/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/AnmolKumar74125/LeetCode/tree/master/2509-minimize-xor) |

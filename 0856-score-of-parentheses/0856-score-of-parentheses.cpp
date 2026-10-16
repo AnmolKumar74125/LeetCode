@@ -2,7 +2,6 @@ class Solution {
 public:
     int scoreOfParentheses(string s) {
         
-        stack<char> st;
         int ans = 0;
         int current = 0;
         bool take = false;

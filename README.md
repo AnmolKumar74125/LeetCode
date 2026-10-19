@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/AnmolKumar74125/LeetCode/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/AnmolKumar74125/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/AnmolKumar74125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/AnmolKumar74125/LeetCode/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List

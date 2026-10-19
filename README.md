@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/AnmolKumar74125/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AnmolKumar74125/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AnmolKumar74125/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AnmolKumar74125/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolKumar74125/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AnmolKumar74125/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnmolKumar74125/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AnmolKumar74125/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AnmolKumar74125/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnmolKumar74125/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/AnmolKumar74125/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AnmolKumar74125/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnmolKumar74125/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |

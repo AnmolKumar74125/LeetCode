@@ -2,18 +2,16 @@ class Solution {
 public:
     int sortPermutation(vector<int>& nums) {
         
-        vector<int> sorted(nums);
-        sort(sorted.begin(), sorted.end());
         int k = -1; 
         for(int i = 0; i< nums.size(); i++)
         {
-            if(nums[i] != sorted[i])
+            if(nums[i] != i)
             {
                 if(k == -1)
                 {
-                    k = (nums[i] & sorted[i]);
+                    k = (nums[i] & i);
                 }
-                k = k & (nums[i] & sorted[i]);
+                k = k & (nums[i] & i);
             }
         }
         if(k == -1)

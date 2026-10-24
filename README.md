@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AnmolKumar74125/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1086-divisor-game](https://github.com/AnmolKumar74125/LeetCode/tree/master/1086-divisor-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AnmolKumar74125/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2409-count-days-spent-together](https://github.com/AnmolKumar74125/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2448-count-number-of-bad-pairs](https://github.com/AnmolKumar74125/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AnmolKumar74125/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AnmolKumar74125/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnmolKumar74125/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnmolKumar74125/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2409-count-days-spent-together](https://github.com/AnmolKumar74125/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/AnmolKumar74125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AnmolKumar74125/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AnmolKumar74125/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |

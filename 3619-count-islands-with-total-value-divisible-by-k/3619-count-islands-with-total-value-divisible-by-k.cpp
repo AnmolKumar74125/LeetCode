@@ -10,7 +10,6 @@ public:
                 if(grid[i][j] != 0 && grid[i][j] != -1)
                 {
                     check(grid, i, j, &sum);
-                    cout<<"i = "<<i<<" j = "<<j<<". sum = "<<sum<<endl;
                     if(sum %k == 0)
                     {
                         ans++;

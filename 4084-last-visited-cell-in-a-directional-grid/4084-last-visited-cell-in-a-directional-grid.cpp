@@ -7,7 +7,6 @@ public:
         int m = grid.size(), n = grid[0].size();
         while(true)
         {
-            //cout <<" i = "<<i<<" j = "<<j<<". grid[i][j] = "<<grid[i][j]<<endl;
             char temp = grid[i][j];
             grid[i][j] = ' ';
             if(temp == 'R' && j < n-1 && grid[i][j+1] != ' ')

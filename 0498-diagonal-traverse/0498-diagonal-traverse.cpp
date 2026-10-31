@@ -6,8 +6,6 @@ public:
         int m = mat.size(), n = mat[0].size();
         vector<int> ans;
         int x = 1;
-        int y = 0;
-
         while(true)
         {
             if(i < 0 || j < 0 || i >= m || j >= n)
@@ -45,7 +43,6 @@ public:
                     j++;
                 }
             }
-            y++;
         }
         return ans;
     }

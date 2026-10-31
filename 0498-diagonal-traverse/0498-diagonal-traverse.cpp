@@ -8,14 +8,13 @@ public:
         int x = 1;
         int y = 0;
 
-        while(y < (m*n))
+        while(true)
         {
             if(i < 0 || j < 0 || i >= m || j >= n)
             {
                 break;
             }
             ans.push_back(mat[i][j]);
-            cout<<mat[i][j]<<". ";
             if(x == 1)
             {
                 i--;

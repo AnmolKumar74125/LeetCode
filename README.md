@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnmolKumar74125/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AnmolKumar74125/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AnmolKumar74125/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnmolKumar74125/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnmolKumar74125/LeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnmolKumar74125/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/AnmolKumar74125/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnmolKumar74125/LeetCode/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/AnmolKumar74125/LeetCode/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/AnmolKumar74125/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/AnmolKumar74125/LeetCode/tree/master/0328-odd-even-linked-list) |

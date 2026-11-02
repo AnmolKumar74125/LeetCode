@@ -3,15 +3,14 @@ public:
     int minMoves(vector<int>& nums) {
         
         int ans = 0;
-        if(nums.size() == 1)
+        int minVal = nums[0];
+        for(int i = 0; i < nums.size(); i++)
         {
-            return ans;
+            minVal = min(minVal, nums[i]);
         }
-        sort(nums.begin(),nums.end());
-        for(int i = 1; i < nums.size(); i++)
+        for(int i = 0; i < nums.size(); i++)
         {
-            nums[i] = nums[i] + ans;
-            ans = ans + abs(nums[i] - nums[i-1]);
+            ans += (nums[i] - minVal);
         }
         return ans;
     }

@@ -11,7 +11,7 @@ public:
         for(int i = 1; i < nums.size(); i++)
         {
             nums[i] = nums[i] + ans;
-            ans = ans + (nums[i] - nums[i-1]);
+            ans = ans + abs(nums[i] - nums[i-1]);
         }
         return ans;
     }

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnmolKumar74125/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AnmolKumar74125/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnmolKumar74125/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3830-find-closest-person](https://github.com/AnmolKumar74125/LeetCode/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnmolKumar74125/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AnmolKumar74125/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnmolKumar74125/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolKumar74125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/AnmolKumar74125/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
